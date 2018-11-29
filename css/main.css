@@ -1,0 +1,43 @@
+body,h1,h2,h3,h4,h5,h6{
+	font-family:"Raleway",sans-serif
+		}
+body,html{
+	height:100%;line-height:1.8
+		}
+.bgimg-1{
+	background-position:center;
+	background-size:cover;
+	background-image:url("bg-img/money_growup.jpg");
+	min-height:100%
+		}
+.w3-bar .w3-button{
+	padding:16px
+		}
+.w4-bar .w4-button{
+	padding:5px
+		}
+.shadow-text-1{
+	text-shadow:2px 2px 2px black
+		}
+.shadow-text-2{
+	text-shadow:1px 1px 1px gray
+		}
+.b-rad-15{
+	border-radius:15px
+		}		
+.p-justify{
+	text-align:justify
+		}
+#pricing{
+	display:none
+		}
+#skills{
+	display:none
+		}
+#promo{
+	display:none
+		}		
+#team{
+	display:none
+		}
+.center{ text-align: center; }
